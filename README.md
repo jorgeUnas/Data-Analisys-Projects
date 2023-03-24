@@ -4,4 +4,4 @@
 
 Here are condensed my projects as a data analyst. New projects are going to be added to this portafolio each time I find some interesting insights to share.
 
-2. <link>https://github.com/jorgeUnas/Deforestation_Analysis_SQL/blob/main/README.md</link>
+2. <a> hrf = "https://github.com/jorgeUnas/Deforestation_Analysis_SQL/blob/main/README.md" </a>
